@@ -1,0 +1,18 @@
+.odd_numbered_elements{
+    background-color: lightsalmon;
+    font-family:Verdana, "DejaVue Sans", sans-serif;
+}
+
+.size_24{
+    font-size: 24px;
+}
+
+#second_element{
+    color: blue;
+    font-size: 36px;
+}
+
+#fourth_element{
+    background-color: lightgreen;
+    font-weight: bold;
+}
